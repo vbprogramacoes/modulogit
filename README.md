@@ -1,6 +1,1 @@
-Alterando o arquivo read.
-
-Alteracao teste.
-
-alguma nova linha legal.
-mais uma linha.
+Meu primeiro sistema no GIT (alterado e atualizado!)
